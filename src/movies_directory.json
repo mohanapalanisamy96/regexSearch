@@ -1,0 +1,92 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "cast": ["Tim Robbins", "Morgan Freeman"],
+    "director": "Frank Darabont",
+    "genres": ["Drama"],
+    "release_year": 1994,
+    "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "available": false
+  },
+  {
+    "title": "Inception",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+    "director": "Christopher Nolan",
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "release_year": 2010,
+    "plot": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea.",
+    "available": true
+  },
+  {
+    "title": "Titanic",
+    "cast": ["Leonardo DiCaprio", "Kate Winslet"],
+    "director": "James Cameron",
+    "genres": ["Drama", "Romance"],
+    "release_year": 1997,
+    "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "available": false
+  },
+  {
+    "title": "The Godfather",
+    "cast": ["Marlon Brando", "Al Pacino"],
+    "director": "Francis Ford Coppola",
+    "genres": ["Crime", "Drama"],
+    "release_year": 1972,
+    "plot": "The aging patriarch of an organized crime dynasty transfers control to his reluctant son.",
+    "available": false
+  },
+  {
+    "title": "The Dark Knight",
+    "cast": ["Christian Bale", "Heath Ledger"],
+    "director": "Christopher Nolan",
+    "genres": ["Action", "Crime", "Drama"],
+    "release_year": 2008,
+    "plot": "Batman faces the Joker, a criminal mastermind who seeks to create chaos in Gotham.",
+    "available": false
+  },
+  {
+    "title": "Pulp Fiction",
+    "cast": ["John Travolta", "Uma Thurman"],
+    "director": "Quentin Tarantino",
+    "genres": ["Crime", "Drama"],
+    "release_year": 1994,
+    "plot": "The lives of two mob hitmen, a boxer, and others intertwine in tales of violence and redemption.",
+    "available": false
+  },
+  {
+    "title": "La La Land",
+    "cast": ["Emma Stone", "Ryan Gosling"],
+    "director": "Damien Chazelle",
+    "genres": ["Romance", "Musical", "Drama"],
+    "release_year": 2016,
+    "plot": "A jazz pianist falls for an aspiring actress in Los Angeles.",
+    "available": false
+  },
+  {
+    "title": "Interstellar",
+    "cast": ["Matthew McConaughey", "Anne Hathaway"],
+    "director": "Christopher Nolan",
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "release_year": 2014,
+    "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "available": true
+  },
+  {
+    "title": "Forrest Gump",
+    "cast": ["Tom Hanks", "Robin Wright"],
+    "director": "Robert Zemeckis",
+    "genres": ["Drama", "Romance"],
+    "release_year": 1994,
+    "plot": "The presidencies of Kennedy and Johnson, Vietnam, and more through the perspective of an Alabama man.",
+    "available": false
+  },
+  {
+    "title": "Avatar",
+    "cast": ["Sam Worthington", "Zoe Saldana"],
+    "director": "James Cameron",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "release_year": 2009,
+    "plot": "A paraplegic Marine dispatched to Pandora on a mission becomes torn between following orders and protecting his new home.",
+    "available": true
+  }
+]
